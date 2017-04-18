@@ -1,5 +1,5 @@
-# Weather-Schtuff
-### Weather maps taken from several websites and even a couple I generate myself!
+## Weather-Schtuff: Weather maps taken from several websites and even a couple I generate myself!
+### The two maps below are the maps I (with much help) create
 
 ## University of Wyoming Radiosonde Data to make Sounding using SkewT Python library
 #### https://pypi.python.org/pypi/SkewT
@@ -15,5 +15,5 @@ Grand Junction Sounding:
 Example map:
 ![2016_07_24_nws_precip_conus](https://cloud.githubusercontent.com/assets/26147620/25103840/2102e218-237b-11e7-82a7-6112f4c074ed.png)
 
-
+## Below are the maps (images) from various weather website like SPC, NWS, University of Illinois, etc
 
