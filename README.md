@@ -1,5 +1,5 @@
 ## Weather-Schtuff: Weather maps taken from several websites and even a couple I generate myself!
-### The two maps below are the maps I (with much help) create
+### The two maps below are the maps I create (with much help from hours of research)
 
 ## University of Wyoming Radiosonde Data to make Sounding using SkewT Python library
 #### https://pypi.python.org/pypi/SkewT
