@@ -10,6 +10,9 @@ Denver Sounding:
 Grand Junction Sounding:
 ![2017_04_17_12_grandjunction_sounding](https://cloud.githubusercontent.com/assets/26147620/25105305/3e60de04-2381-11e7-8223-47d2c983b696.png)
 
+Blank Sounding:
+![blank_skewt](https://cloud.githubusercontent.com/assets/26147620/25189501/91cf696e-24e6-11e7-8675-123f67d68a76.png)
+
 ## National Weather Service 24hr Accumulated Rainfall
 #### I use Basemap library as well as NWS NetCDF files
 Example map:
