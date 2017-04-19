@@ -1,0 +1,105 @@
+72469 DNR Denver Observations at 12Z 11 Jan 2017
+
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1000.0      0                                                                                                                           
+  925.0    648                                                                                                                             
+  850.0   1353                                                                                                                             
+  824.0   1625                                                                   
+  818.0   1684                                                                   
+  803.5   1829                                                                   
+  775.0   2121                                                                   
+  773.7   2134                                                                   
+  768.0   2194                                                                   
+  744.9   2438                                                                   
+  717.0   2743                                                                   
+  700.0   2934                                                                   
+  695.0   2992                                                                   
+  638.7   3658                                                                  
+  614.5   3962                                                                 
+  591.2   4267                                                                  
+  588.0   4310                                                                  
+  568.2   4572                                                                  
+  546.0   4877                                                                 
+  508.0   5430                                                                  
+  500.0   5550                                                                  
+  464.5   6096                                                                  
+  448.0   6363                                                                  
+  400.0   7180                                                                  
+  377.0   7600                                                                  
+  375.9   7620                                                                  
+  303.0   9094                                                                  
+  300.7   9144                                                                  
+  300.0   9160                                                                  
+  250.0  10350                                                                  
+  237.8  10668                                                                  
+  231.0  10852                                                                  
+  230.0  10879                                                                  
+  226.6  10973                                                                  
+  200.0  11750                                                                  
+  199.0  11781                                                                  
+  177.3  12497                                                                  
+  159.0  13175                                                                  
+  153.1  13411                                                                  
+  152.0  13457                                                                  
+  150.0  13540                                                                  
+  125.7  14630                                                                  
+  123.0  14762                                                                 
+  113.6  15240                                                                
+  101.0  15950                                                                 
+  100.0  16010                                                                
+   93.4  16416                                                              
+   88.1  16764                                                              
+   83.7  17069                                                              
+   80.5  17299   -0.0   -0.0     0   0.00    000     00  000.0  000.0  000.0
+Station information and sounding indices
+                         Station identifier: 
+                             Station number: 
+                           Observation time: 
+                           Station latitude: 
+                          Station longitude: 
+                          Station elevation: 
+                               Lifted index: 
+    LIFT computed using virtual temperature: 
+      Convective Available Potential Energy: 
+             CAPE using virtual temperature: 
+                      Convective Inhibition: 
+             CINS using virtual temperature: 
+                     Bulk Richardson Number: 
+          Bulk Richardson Number using CAPV: 
+  Temp [K] of the Lifted Condensation Level: 
+Pres [hPa] of the Lifted Condensation Level: 
+     Mean mixed layer potential temperature: 
+              Mean mixed layer mixing ratio: 
+              1000 hPa to 500 hPa thickness: 
+Precipitable water [mm] for entire sounding: 
+
+Description of the 
+data columns
+or sounding indices.
+
+
+
+
+
+
+
+Interested in graduate studies in atmospheric science?
+Check out our program at the
+University of Wyoming
+
+
+Questions about the weather data provided by this site can be
+addressed to 
+Larry Oolman (ldoolman@uwyo.edu)
+
+
+<!--
+window.focus();
+// -->
+
+
+
+
